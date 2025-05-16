@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Cybersecurity**
 
-- 💬 Ask me about **Java,python, Javascript**
+- 💬 Ask me about **Java, python, Javascript**
 
 - 📫 How to reach me **ahmedluqman680@gmail.com**
 
