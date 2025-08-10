@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedluqman-dev" alt="ahmedluqman-dev" /></a> </p>
 
-- 🔭 I’m currently working on **Web development projects**
+- 🔭 I’m currently working on **Java Full Stack projects**
 
-- 🌱 I’m currently learning **Angular JS**
+- 🌱 I’m currently learning **DSA**
 
-- 👯 I’m looking to collaborate on **Web development projects**
+- 👯 I’m looking to collaborate on **Java Full Stack projects**
 
-- 🤝 I’m looking for help with **Cybersecurity**
+- 🤝 I’m looking for help with **DSA**
 
-- 💬 Ask me about **Java, python, Javascript**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **ahmedluqman680@gmail.com**
 
-- ⚡ Fun fact **I love reading novels**
+- ⚡ Fun fact **I love reading Fictional Novels**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
