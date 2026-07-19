@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Ahmed Luqman</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedluqman-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedluqman-dev" /> </p>
 
